@@ -37,6 +37,8 @@ dependencies {
     spotbugs 'com.github.spotbugs:spotbugs:4.6.0'
 
     api 'com.thoughtworks.xstream:xstream:1.4.19'
+    api 'org.apache.spark:spark-sql_2.12:3.0.1'
+
 
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.1'
     testImplementation 'org.junit.jupiter:junit-jupiter-params:5.9.1'
